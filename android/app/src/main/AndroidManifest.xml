@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.todosijevic.my_garage">
    <application
-        android:label="my_garage"
+        android:label="My Garage"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
