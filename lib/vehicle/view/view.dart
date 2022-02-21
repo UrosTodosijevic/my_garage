@@ -1,0 +1,1 @@
+export 'vehicle_page.dart';
